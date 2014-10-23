@@ -8,7 +8,7 @@ The system then got extended to include picking and packing information (eg. who
 I've not added any of the main server-side stuff here, but basically aside from each of the files on here there was a small cheap MySQL database server (running Debian I believe..). Should anyone want the SQL structure for this, let me know and I'll fire up the old server and grab it off there.
 
 ## Requirements
-The main version requires PHP 5.5 or later to work as it uses PHP's native password hashing functions. There is an alternative version using OpenWall's password hashing for versions below 5.5. Please note, OpenWall's password hashing class is licenced under the MIT licence; PHPMailer is licenced under the LGPLv2.1.
+These scripts were run on Raspberry Pis running Raspbian (the RPi Debian Fork), howeevr they should run on any GNU/Linux system as far as I'm aware, as long as Python3 is installed (it should be available in the repos for the main distributions).
 
 ## Licence
 The entire contents of this repository is licenced under the GNU General Public License v3 unless otherwise specified. Basically you can use this for whatever purposes you would like to as long as you credit the work to me (generally a little note somewhere readable referencing `Elliot J. Reed, www.cyanidesystems.com` will do). Should you make any changes you must publish these in a prominent place such as GitHub, Sourceforge, etc. It would also be nice, though not required, if you were to let me know of any changes, as I may have missed something and could use the changes / edits myself.
