@@ -11,21 +11,4 @@ I've not added any of the main server-side stuff here, but basically aside from 
 These scripts were run on Raspberry Pis running Raspbian (the RPi Debian Fork), howeevr they should run on any GNU/Linux system as far as I'm aware, as long as Python3 is installed (it should be available in the repos for the main distributions).
 
 ## Licence
-The entire contents of this repository is licenced under the GNU General Public License v3 unless otherwise specified. Basically you can use this for whatever purposes you would like to as long as you credit the work to me (generally a little note somewhere readable referencing `Elliot J. Reed, www.cyanidesystems.com` will do). Should you make any changes you must publish these in a prominent place such as GitHub, Sourceforge, etc. It would also be nice, though not required, if you were to let me know of any changes, as I may have missed something and could use the changes / edits myself.
-
-```
-Copyright (C) 2014  Elliot J. Reed
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see [<http://www.gnu.org/licenses/>](http://www.gnu.org/licenses/).
-```
+The entire contents of this repository is licenced under the GNU General Public License v3 unless otherwise specified.
